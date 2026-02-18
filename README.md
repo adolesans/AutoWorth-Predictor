@@ -35,9 +35,5 @@ The model performance is evaluated using:
     ```
 3.  **Run the Notebook**
     Open the Jupyter Notebook to view the full analysis and model training process.
-
-## 📜 License
-Distributed under the MIT License.
-
 ---
 *Developed by [Annisa D.Y.](https://linkedin.com/in/annisa-dy) - Focused on Data-Driven Solutions.*
