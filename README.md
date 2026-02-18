@@ -27,7 +27,7 @@ The model performance is evaluated using:
 ## 💻 Usage
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/adolesans/Toyota-used-car-predictive-analytic.git](https://github.com/adolesans/Toyota-used-car-predictive-analytic.git)
+    git clone [git clone [https://github.com/adolesans/AutoWorth-Predictor.git](https://github.com/adolesans/AutoWorth-Predictor.git)
     ```
 2.  **Install Dependencies**
     ```bash
